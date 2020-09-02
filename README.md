@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.com/deguzman20/deguzman20.svg)](http://hits.dwyl.com/deguzman20/deguzman20)
+
 ### Hi there 👋
 
 <!--
