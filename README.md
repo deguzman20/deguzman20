@@ -1,4 +1,4 @@
-# Hi, I'm Alejandro De Guzman (:coffee::computer::bulb::heart:)
+# Hi, I'm Alejandro De Guzman (:computer::coffee::bulb:)
 
 I'm a Backend Developer from the Philippines!
 
