@@ -8,8 +8,6 @@ I'm a Backend Developer from the Philippines!
 
 ![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![NodeJS](https://img.icons8.com/color/30/nodejs.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Bitbucket](https://img.icons8.com/color/30/bitbucket.png)![Gitlab](https://img.icons8.com/color/30/gitlab.png)![Git](https://img.icons8.com/color/30/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)![VueJS](https://img.icons8.com/color/30/vue-js.png)![ReactJS](https://img.icons8.com/color/30/react-native.png)![AngularJS](https://img.icons8.com/color/30/angularjs.png)![Ubuntu](https://img.icons8.com/color/30/ubuntu--v1.png)![Linux](https://img.icons8.com/color/30/linux.png)![Kali Linux](https://img.icons8.com/color/30/kali-linux.png)![Console](https://img.icons8.com/color/30/console.png)
 
-[![Top Language](https://readme-stats.deguzman20.com/api/top-langs?username=warengonzaga&layout=compact)](https://github.com/deguzman20/github-readme-stats)
-
 ---
 
 :computer: with :heart: by **Alejandro De Guzman**
