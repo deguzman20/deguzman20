@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on corporate company using RoR
-- 🌱 I’m currently learning to master Graphql
+- 🌱 I’m currently learning to master GraphQL
 
 <!--
 **deguzman20/deguzman20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
