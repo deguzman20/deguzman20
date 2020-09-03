@@ -13,7 +13,7 @@ I'm a Backend Developer from the Philippines!
 
 ## :headphones: Spotify Playing
 
-[![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/31o2a6465xiln745tfuuded4ch4y)
+[![Spotify](https://readme-spotify.alejandrogacumadeguzman.com/api/spotify)](https://open.spotify.com/user/31o2a6465xiln745tfuuded4ch4y)
 
 ---
 :computer: with :heart: by **Alejandro De Guzman**
