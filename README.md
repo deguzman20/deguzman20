@@ -10,5 +10,10 @@ I'm a Backend Developer from the Philippines!
 ## :stars: My Github Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=deguzman20&&show_icons=true&icon_color=bb2acf&title_color=ffffff&text_color=daf7dc&bg_color=151515"/>
+
+## :headphones: Spotify Playing
+
+[![Spotify](https://api.spotify.com/v1/playlists/6MKFmPwiNgL8bXuZgL6TWz)](https://open.spotify.com/user/vmt7lpqdatuelp2chw7ur2p2l)
+
 ---
 :computer: with :heart: by **Alejandro De Guzman**
