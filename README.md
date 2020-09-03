@@ -1,4 +1,4 @@
-# Hi, I'm Alejandro De Guzman (:computer::coffee::bulb:::notes:)
+# Hi, I'm Alejandro De Guzman (:computer::coffee::bulb::notes:)
 
 I'm a Backend Developer from the Philippines!
 
