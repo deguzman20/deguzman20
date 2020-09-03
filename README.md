@@ -1,4 +1,4 @@
-# Hi, I'm Alejandro De Guzman (:computer ::coffee ::video_game ::notes:)
+# Hi, I'm Alejandro De Guzman (:computer::coffee::video_game::notes:)
 
 I'm a Backend Developer from the Philippines!
 
