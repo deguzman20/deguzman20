@@ -14,7 +14,7 @@ I'm a Backend Developer from the Philippines!
 ## :headphones: Spotify Playing
 
 
-<frame src="https://open.spotify.com/user/31o2a6465xiln745tfuuded4ch4y" />
+<iframe src="https://open.spotify.com/user/31o2a6465xiln745tfuuded4ch4y"></iframe>
 
 ---
 :computer: with :heart: by **Alejandro De Guzman**
