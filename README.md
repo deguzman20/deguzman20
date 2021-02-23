@@ -6,6 +6,7 @@ I'm a Backend Developer from the Philippines!
 ## :wrench: Language and Tools
 
 ![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![Ruby](https://img.icons8.com/color/30/ruby-programming-language.png)![CSharp](https://img.icons8.com/color/30/c-sharp-logo.png)![PHP](https://img.icons8.com/color/30/php.png)![Java](https://img.icons8.com/color/30/java-duke-logo.png)![Posgre](https://img.icons8.com/color/30/postgreesql.png)![Redis](https://img.icons8.com/color/30/redis.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Bitbucket](https://img.icons8.com/color/30/bitbucket.png)![Git](https://img.icons8.com/color/30/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)![VueJS](https://img.icons8.com/color/30/vue-js.png)![ReactNative](https://img.icons8.com/color/30/react-native.png)![GraphQL](https://img.icons8.com/color/30/graphql.png)![Redux](https://img.icons8.com/color/30/redux.png)![Linux](https://img.icons8.com/color/30/linux.png)![Nginx](https://img.icons8.com/color/30/nginx.png)![Ubuntu](https://img.icons8.com/color/30/ubuntu--v1.png)![Ubuntu](https://img.icons8.com/color/30/trello.png)![Jenkins](https://img.icons8.com/color/30/jenkins.png)
+![NodeJS](https://img.icons8.com/color/30/nodejs.png)
 
 ## :stars: My Github Stats
 
