@@ -1,5 +1,5 @@
 # Hi, I'm Alejandro De Guzman 
-I'm a Backend Developer from the Philippines!
+I'm a Fronted Developer from the Philippines!
 
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/andy.dangas) [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/joshuken22) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-de-guzman-380568170) 
 ## :wrench: Language and Tools
